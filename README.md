@@ -1,5 +1,5 @@
 <h1 align="center">Manuel Martinez </h1>
-<h3 align="center">Owner & Dev @minepalace.com</h3>
+<h3 align="center">CEO @ Cobble Entertainment</h3>
  
 <p align="center"><img src="https://skillicons.dev/icons?i=vscode,java,idea,github"></p>
 <p align="center">
